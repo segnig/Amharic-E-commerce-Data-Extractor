@@ -1,0 +1,16 @@
+data/*.csv
+data/*.xlsx
+data/photos
+
+.venv
+
+.env
+
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+
+*.pdf
+*.docx
