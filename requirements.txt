@@ -1,0 +1,14 @@
+pandas
+openpyxl
+
+telethon
+dotenv
+
+# for jupyter notebook
+ipykernel
+
+# for telegram
+pyTelegramBotAPI
+
+requests
+beautifulsoup4
