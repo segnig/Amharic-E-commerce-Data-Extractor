@@ -12,3 +12,6 @@ pyTelegramBotAPI
 
 requests
 beautifulsoup4
+
+# for tokenizer
+etnltk
