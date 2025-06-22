@@ -15,3 +15,9 @@ beautifulsoup4
 
 # for tokenizer
 etnltk
+
+transformers 
+datasets 
+torch 
+seqeval 
+pandas
