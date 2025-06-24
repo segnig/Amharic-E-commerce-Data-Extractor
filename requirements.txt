@@ -15,3 +15,13 @@ beautifulsoup4
 
 # for tokenizer
 etnltk
+
+transformers 
+datasets 
+torch 
+seqeval 
+accelerate 
+gdown
+
+shap
+lime
